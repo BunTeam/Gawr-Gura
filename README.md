@@ -15,7 +15,12 @@ GawrGura là bot bảo vệ an toàn cho server của bạn bằng những lện
 `avatar`, `clean`, `esnipe`, `feedback`, `help`, `instagram`, `invite`, `ping`, `roleinfo`, `snipe`, `userinfo`
 ### Tạo kênh ‹5 lệnh›:
 `betrayal-game`, `chess-game`, `fishing-game`, `poker-game`, `youtube-together`
-
+## Tính năng
+- Confession với log và 1 key tùy chỉnh
+- Kiếm tra độ an toàn cho server của bạn
+- Xem thông tin người dùng
+- Coi youtube và chơi game trực tiếp trên discord
+- Và có rất nhiều tính năng phú vị khác
 ## Preview
 
 <a  href="https://discord.com/oauth2/author![image](https://user-images.githubusercontent.com/67152874/127595915-89e2da26-9c61-4b48-865c-6d5476570d97.png)
