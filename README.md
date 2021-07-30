@@ -1,4 +1,5 @@
 # Gawr Gura Bot
+GawrGura là bot bảo vệ an toàn cho server của bạn bằng những lệnh chống server bị phá, confession với log để không thằng nào dám phá cfs nữa
 ## Tất cả lệnh
 ### Bảo mật ‹1 lệnh›:
 `check`
@@ -15,6 +16,6 @@
 ### Tạo kênh ‹5 lệnh›:
 `betrayal-game`, `chess-game`, `fishing-game`, `poker-game`, `youtube-together`
 
-##Preview
+## Preview
 
 <a  href="https://discord.com/oauth2/authorize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://discord.com/api/guilds/865450363073986590/widget.png?style=banner1"></a>
