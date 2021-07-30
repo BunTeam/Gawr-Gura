@@ -1,8 +1,8 @@
 # Gawr Gura Bot
 
-### Bảo mật ‹1 lệnh›:
+#### Bảo mật ‹1 lệnh›:
 `check`
-### Cài đặt ‹4 lệnh›:
+#### Cài đặt ‹4 lệnh›:
 `setserverstat`, `setconfession`, `setinvite`, `setprefix`
 ### Giveaway ‹4 lệnh›:
 `deletegiveaway`, `endgiveaway`, `rerollgiveaway`, `startgiveaway`
