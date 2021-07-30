@@ -18,4 +18,5 @@ GawrGura là bot bảo vệ an toàn cho server của bạn bằng những lện
 
 ## Preview
 
-<a  href="https://discord.com/oauth2/authorize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://discord.com/api/guilds/865450363073986590/widget.png?style=banner1"></a>
+<a  href="https://discord.com/oauth2/author![image](https://user-images.githubusercontent.com/67152874/127595915-89e2da26-9c61-4b48-865c-6d5476570d97.png)
+ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://cdn.discordapp.com/attachments/868822054500204565/870508696306851860/unknown.png"></a>
