@@ -7,23 +7,24 @@ ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://med
 ## Tất cả lệnh
 ### Bảo mật ‹1 lệnh›:
 `check`
-### Cài đặt ‹4 lệnh›:
-`setserverstat`, `setconfession`, `setinvite`, `setprefix`
+### Cài đặt ‹6 lệnh›:
+`setserverstat`, `autoresponse`, `setconfession`, `premium`, `etinvite`, `setprefix`
 ### Giveaway ‹4 lệnh›:
 `deletegiveaway`, `endgiveaway`, `rerollgiveaway`, `startgiveaway`
 ### Giải trí ‹5 lệnh›:
 `boy`, `cat`, `dog`, `girl`, `meme`
 ### Hành động ‹15 lệnh›:
 `baka`, `bite`, `clap`, `dance`, `die`, `hug,` `kill`, `kiss`, `poke`, `punch`, `run`, `sad`, `shot`, `smile`, `wag`
-### Thông tin ‹11 lệnh›:
-`avatar`, `clean`, `esnipe`, `feedback`, `help`, `instagram`, `invite`, `ping`, `roleinfo`, `snipe`, `userinfo`
+### Thông tin ‹15 lệnh›:
+`avatar`, `banner`, `checkpremium`, `clean`, `color`, `esnipe`, `feedback`, `help`, `instagram`, `invite`, `ping`, `roleinfo`, `snipe`, `userinfo`, `vote`
 ### Tạo kênh ‹5 lệnh›:
 `betrayal-game`, `chess-game`, `fishing-game`, `poker-game`, `youtube-together`
 ## Tính năng
-- Confession với log và 1 key tùy chỉnh
+- Confession với log và duyệt và 1 key tùy chỉnh
 - Kiếm tra độ an toàn cho server của bạn
 - Xem thông tin người dùng
 - Coi youtube và chơi game trực tiếp trên discord
+- Trả lời tự động
 - Và có rất nhiều tính năng phú vị khác
 ## Preview
 
