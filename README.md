@@ -8,15 +8,15 @@ ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://med
 ### Bảo mật ‹1 lệnh›:
 `check`
 ### Cài đặt ‹6 lệnh›:
-`setserverstat`, `autoresponse`, `setconfession`, `premium`, `etinvite`, `setprefix`
+`setserverstat`, `autoresponse`, `setchatbot`, ``clear`, `setconfession`, `setimage-delete`, `setinvite`, `setprefix`, `ttslanguage`
 ### Giveaway ‹4 lệnh›:
 `deletegiveaway`, `endgiveaway`, `rerollgiveaway`, `startgiveaway`
-### Giải trí ‹5 lệnh›:
-`boy`, `cat`, `dog`, `girl`, `meme`
+### Giải trí ‹9 lệnh›:
+`boy`, `cat`, `dog`, `girl`, `meme`, `random`, `speak`, `stop`, `timtruyen`
 ### Hành động ‹15 lệnh›:
 `baka`, `bite`, `clap`, `dance`, `die`, `hug,` `kill`, `kiss`, `poke`, `punch`, `run`, `sad`, `shot`, `smile`, `wag`
-### Thông tin ‹15 lệnh›:
-`avatar`, `banner`, `checkpremium`, `clean`, `color`, `esnipe`, `feedback`, `help`, `instagram`, `invite`, `ping`, `roleinfo`, `snipe`, `userinfo`, `vote`
+### Thông tin ‹175 lệnh›:
+`avatar`, `avatarinsta`, `banner`, `botinfo`, `checkpremium`, `clean`, `color`, `esnipe`, `feedback`, `help`, `instagram`, `invite`, `ping`, `reddit`, `roleinfo`, `snipe`, `userinfo`
 ### Tạo kênh ‹5 lệnh›:
 `betrayal-game`, `chess-game`, `fishing-game`, `poker-game`, `youtube-together`
 ## Tính năng
@@ -29,4 +29,4 @@ ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://med
 ## Preview
 
 <a  href="https://discord.com/oauth2/author![image](https://user-images.githubusercontent.com/67152874/127595915-89e2da26-9c61-4b48-865c-6d5476570d97.png)
-ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://cdn.discordapp.com/attachments/868822054500204565/870508696306851860/unknown.png"></a>
+ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://images-ext-2.discordapp.net/external/GRpdyndvYXXiycrjfHu5LlmL0goHH_4zd8EFxXrFoL0/https/media.giphy.com/media/eA0DlkbhVvMF14mj4S/giphy.gif"></a>
