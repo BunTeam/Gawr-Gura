@@ -12,7 +12,7 @@ ize?client_id=869120429665714186&scope=bot&permissions=8"><img  src="https://med
 ### Bảo mật ‹1 lệnh›:
 `check`
 ### Cài đặt ‹6 lệnh›:
-`setserverstat`, `autoresponse`, `setchatbot`, ``clear`, `setconfession`, `setimage-delete`, `setinvite`, `setprefix`, `ttslanguage`
+`setserverstat`, `autoresponse`, `setchatbot`, `clear`, `setconfession`, `setimage-delete`, `setinvite`, `setprefix`, `ttslanguage`
 ### Giveaway ‹4 lệnh›:
 `deletegiveaway`, `endgiveaway`, `rerollgiveaway`, `startgiveaway`
 ### Giải trí ‹9 lệnh›:
